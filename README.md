@@ -1,2 +1,2 @@
 # Ping-Pong-Game
-A ping pong game on fpga
+A two-player ping-pong game on pynq-z2 fpga with a score counting function.
